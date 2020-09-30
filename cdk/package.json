@@ -27,6 +27,6 @@
     "@aws-cdk/aws-iam": "^1.18.0",
     "@aws-cdk/aws-lambda": "^1.18.0",
     "@aws-cdk/core": "^1.17.1",
-    "source-map-support": "^0.5.16"
+    "source-map-support": "^0.5.19"
   }
 }
