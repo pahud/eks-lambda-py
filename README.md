@@ -13,7 +13,7 @@ $ source .venv/bin/activate
 $ cd fn
 $ pip install -r requirements.txt -t .
 # cdk deploy
-$ cd ../../../cdk
+$ cd ../../../
 $ cdk deploy
 # on deploy completed follow the outputs and run the ClusterConfigCommand
 $ aws eks update-kubeconfig --name YOUR_CLUSTER_NAME --region REGION --role-arn YOUR_ROLE_ARN
